@@ -1,1 +1,1 @@
-# thesis-extended-abstract
+# thesis-paper
